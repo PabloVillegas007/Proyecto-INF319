@@ -1,0 +1,8 @@
+C:\Users\Pablo\source\repos\WebApplication1\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.deps.json
+C:\Users\Pablo\source\repos\WebApplication1\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.dll
+C:\Users\Pablo\source\repos\WebApplication1\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.pdb
+C:\Users\Pablo\source\repos\WebApplication1\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.fsprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\WebApplication1\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\WebApplication1\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfo.fs
+C:\Users\Pablo\source\repos\WebApplication1\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.dll
+C:\Users\Pablo\source\repos\WebApplication1\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.pdb
